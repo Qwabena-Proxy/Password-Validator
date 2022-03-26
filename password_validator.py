@@ -14,4 +14,4 @@ if fc >= 2 and sc >= 2 and ln == 14:
 else:
   print('Weak')
 print(num.index('0'))
-#End of code
+
