@@ -15,3 +15,4 @@ else:
   print('Weak')
 print(num.index('0'))
 
+  
