@@ -1,7 +1,7 @@
 special = ['!','@','#','$','%','&','*']
 num = ['1','2','3','4','5','6','7','8','9','0']
 fc = 0
-sc = 0
+sc = 0 
 password = input('Enter:')
 ln = len(password)
 for i in password:
